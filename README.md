@@ -1,13 +1,10 @@
 <h2 align='center'> Hi there 👋, I'm 0JIEUN0. </h2>
 
-<h3> 🛒Skills </h3>
-<h4> Platforms & Languages </h4>
+### 🛒Skills
+#### 💡 Platforms & Languages
 <p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=React&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/ReactNative-20232A?style=flat-square&logo=React&logoColor=61DAFB"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
@@ -17,7 +14,16 @@
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white">
 </p>
 
-<h4> 🛠 Tools </h4>
+
+#### 🌱 Learning
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=React&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/ReactNative-20232A?style=flat-square&logo=React&logoColor=61DAFB"/>
+</p>
+
+
+#### 🛠 Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
@@ -25,7 +31,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"> 
 </p>
 
-
+---
 
 ![0JIEUN0's github stats](https://github-readme-stats.vercel.app/api?username=0JIEUN0&show_icons=true&theme=cobalt2)
 
